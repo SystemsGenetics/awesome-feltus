@@ -58,3 +58,23 @@ Here are some things you should __not__ do:
 - Downloading images from Palmetto so that you can view them (use JupyterLab instead)
 
 As you can see, the solution to many potential problems is to use JupyterLab.
+
+## Other Compute Environments
+
+You may be sent to explore other environments aside from Palmetto, including:
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Nautilus](https://nautilus.optiputer.net/)
+
+Don't be frightened. If and when that time comes, you will be equipped with the tools to use these platforms without having to be a Kubernetes or cloud expert. That is all I will say for now.
+
+## GitHub Repositories
+
+We have created a bunch of bioinformatics tools that aid us in the process of scientific discovery. Most of these tools are housed in the [SystemsGenetics](https://github.com/systemsgenetics) org, which we manage alongside our friends at the [Ficklin lab](http://ficklinlab.cahnrs.wsu.edu/) at WSU. Some notable tools include:
+- [GEMmaker](https://github.com/SystemsGenetics/GEMmaker)
+- [GEMprep](https://github.com/SystemsGenetics/GEMprep)
+- [Gene Oracle](https://github.com/SystemsGenetics/gene-oracle)
+- [KINC](https://github.com/SystemsGenetics/KINC-nf)
+- [TSPG](https://github.com/ctargon/TSPG)
+
+Most of these tools are Nextflow pipelines, but you can use the underlying scripts directly as well. One day you might come up with an idea for your own tool or pipeline, so you might want to learn how to write a Nextflow pipeline. Here is a [tutorial](https://github.com/bentsherman/nextflow-palmetto-demo) I made to show you how to do this from a collection of PBS scripts, which is probably what you'll have at that point. Check out the last part of the tutorial for best practices when running Nextflow pipelines on Palmetto.
