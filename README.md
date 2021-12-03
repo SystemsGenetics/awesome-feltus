@@ -2,6 +2,13 @@
 
 A guide to being awesome in the Feltus lab. Think of this page as a central hub that can help you get to wherever you need to go. Inspired by [cufctl/mlbd](https://github.com/CUFCTL/mlbd) and [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
+Table of Contents
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Palmetto](#palmetto)
+4. [Other Compute Environments](#other-compute-environments)
+5. [GitHub Repositories](#github-repositories)
+
 ## Introduction
 
 Everyone in the Feltus lab is welcome to contribute to this guide, and to shape what it means to be awesome in the Feltus lab. I (Ben) am a software engineer, so I view awesome-ness through the lens of an engineer, but the Feltus lab is made up of engineers, scientists, and people in between, so I hope that in time this guide will reflect a holistic view of how to be awesome in the Feltus lab.
