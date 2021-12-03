@@ -14,6 +14,7 @@ We use a lot of different technologies in the Feltus lab. The first step is to j
 
 First, the web applications you will use most often for your work:
 
+- [FeltusLab Slack](https://feltuslab.slack.com/): The website we use to communicate with each other. You'll still have to use email, but Slack will make things a bit easier.
 - [GitHub](https://github.com/): That's where you are now! We put all of our code repositories here. Most of the lab's projects are [here](https://github.com/systemsgenetics). You can also make an account and store personal projects here.
 - [Overleaf](https://www.overleaf.com/): A website for creating LaTex documents for things like research papers. You'll want to learn how to write in LaTeX, and you'll want to do it through Overleaf.
 - [Palmetto](https://www.palmetto.clemson.edu/): Clemson's supercomputer, the place where you will do most of your work. They also do tours! See the Palmetto section below.
